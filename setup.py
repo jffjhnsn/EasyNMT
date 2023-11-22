@@ -22,7 +22,7 @@ setup(
         'numpy',
         'nltk',
         'sentencepiece',
-        'fasttext',
+        'fasttext-wheel==0.9.2',
         'protobuf'
     ],
     classifiers=[
